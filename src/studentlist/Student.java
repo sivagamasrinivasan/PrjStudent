@@ -12,7 +12,7 @@ public class Student  // template
 {
    private String name; // public or private
     private int id; // encapsulation principle 
-
+private int grade;
     /**
      * @return the name
      */
